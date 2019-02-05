@@ -1,2 +1,2 @@
-# hermes-go-utils-lib
-HERMES Project Go Utilities Library
+# Wave Go Utils Library
+Wave Project Go Utilities Library
